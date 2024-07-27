@@ -1,0 +1,22 @@
+@media only screen and (max-width: 450px) {
+
+    .two-inputs,
+    .query-divs {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 24px;
+    }
+
+    .custom-checkbox::after {
+
+        left: 4px;
+        top: 9px;
+  
+    }
+
+    .sent {
+        width: 80%;
+        top: 80px;
+    }
+}

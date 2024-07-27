@@ -1,0 +1,20 @@
+@media only screen and (max-width: 758px) {
+    
+    main {
+        padding: 130px 10px 50px 10px;
+    }
+
+    fieldset {
+        width: 100%;
+        padding: 40px;
+    
+        position: relative;
+    }
+
+    .sent {
+        width: 420px;
+
+    }
+    
+
+}
